@@ -9,7 +9,7 @@ class StudentmanagerApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Assertions.fail("Ooops err bjbkhjkhkhor!!");
+//		Assertions.fail("Ooops err bjbkhjkhkhor!!");
 	}
 
 }
