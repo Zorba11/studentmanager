@@ -11,5 +11,4 @@ class StudentmanagerApplicationTests {
 	void contextLoads() {
 		Assertions.fail("Ooops err bjbkhjkhkhor!!");
 	}
-
 }
